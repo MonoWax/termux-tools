@@ -1,3 +1,3 @@
 #!/bin/bash
-pip install wget requests pycryptodome
+pip install wget requests
 python main.py
